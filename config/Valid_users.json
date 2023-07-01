@@ -1,0 +1,24 @@
+{
+  "valid_emails": [
+    {
+      "email": "amit@naaman-ins.com",
+      "password": "123"
+    },
+    {
+      "email": "reut@naaman-ins.com",
+      "password": "456"
+    },
+    {
+      "email": "george@naaman-ins.com",
+      "password": "789"
+    }
+  ],
+  "admin_email": [
+    {
+      "email":"amos@naaman-ins.com",
+      "password": "admin"
+    }
+  ]
+
+}
+
